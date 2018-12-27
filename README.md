@@ -1,1 +1,1 @@
-#kruskal-algorithm
+# kruskal-algorithm
